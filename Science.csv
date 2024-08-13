@@ -1,0 +1,126 @@
+PCB,,,,
+PHYSICS ,CHEMISTRY ,BIOLOGY,SKILLS,COURSE
+"A,B,C,D","A,B,C","A,B,C","Critical thinking, Time management, Empathy and communication",Doctor of Medicine (MD/MBBS)
+"A,B,C,D","A,B,C","A,B,C","Manual dexterity, Attention to detail, Patient care and communication",Doctor of Dental Surgery (DDS)
+"A,B,C,D","A,B,C","A,B,C,D","analytical and scientific knowledge, communication and councelling, attention to details",Bachelor of Pharmacy
+"A,B,C,D,E","A,B,C","A,B,C,D","Technical and laboratory, analytical thinking,attention to detail and accuracy",Bachelor of Medical Laboratory Sciences
+"A,B,C,D,E","A,B,C","A,B,C,D","Technical proficiency, Attention to detail, Patient care and communication",Bachelor of Science in Radiation Therapy Technology
+"A,B,C,D,E","A,B,C","A,B,C,D","Manual dexterity, Technical proficiency, Patient interaction",Bachelor of Science in Prosthetic and Orthotics
+"A,B,C,D,E","A,B,C","A,B,C,D","Compassion, Clinical skiils, Attention to detail",Bachelor of Science in Nursing
+"A,B,C,D,E","A,B,C","A,B,C,D","analytical, knowledge of public health, communication",Bachelor of Science in Environmental Health Sciences
+"A,B,C,D,E","A,B,C","A,B,C,D","Technical proficiency, Attention to detail, Patient care and communication",Medical Laboratory Sciences in Clinical Chemistry
+"A,B,C,D,E","A,B,C","A,B,C,D","laboratory, Attention to detail, analytical thinking",Medical Laboratory Sciences in Hematology and Blood Transfusion
+"A,B,C,D,E","A,B,C","A,B,C,D","laboratory technique, Attention to detail, analytical thinking",Medical Laboratory Sciences in Histotechnology
+"A,B,C,D,E","A,B,C","A,B,C,D","laboratory technique, Attention to detail, analytical thinking",Medical Laboratory Sciences in Microbiology and Immunology
+"A,B,C,D,E","A,B,C","A,B,C,D","field and laboratory technique, Attention to detail, analytical thinking",Medical Laboratory Sciences in Parasitology and Medical Entomology
+"A,B,C,D,E","A,B,C","A,B,C,D","laboratory technique, Attention to detail, analytical thinking",Medical Laboratory Sciences in Medical Laboratory Sciences General
+"A,B,C,D,E","A,B,C","A,B,C,D","manual therapy, patient communication, physical assessment and evaluation",Sciences in Health Laboratory and Bachelor of Science in Physiotherapy
+"A,B,C","A,B,C,D,E","A,B,C,D","visual assessment and diagnosis, Technical proficiency with optical Equipment, patient communication and care",Bachelor of Science in Optometry
+"A,B,C,D","A,B,C,D",,"Subject Matter Expertise, Instructional and communication",Bachelor of Science with Education
+"A,B,C,D",,"A,B,C,D","Subject Matter Expertise, Instructional and communication",Bachelor of Science with Education
+,"A,B,C,D","A,B,C,D","Subject Matter Expertise, Instructional and communication",Bachelor of Science with Education
+"A,B,C,D",,"A,B,C,D","Engineering Design and Analysis, Project Management, Technical Problem-Solving",Bachelor of Science in Municipal and Industrial Services Engineering 
+"A,B,C,D","A,B,C,D",,"Engineering Design and Analysis, Project Management, Technical Problem-Solving",Bachelor of Science in Municipal and Industrial Services Engineering 
+,"A,B,C,D","A,B,C,D","Creative Design and Visualization, Technical Drawing and Drafting, Spatial Awareness",Bachelor of Architecture 
+"A,B,C,D",,"A,B,C,D","Creative Design and Visualization, Technical Drawing and Drafting, Spatial Awareness",Bachelor of Architecture 
+"A,B,C,D","A,B,C,D",,"Creative Design and Visualization, Technical Drawing and Drafting, Spatial Awareness",Bachelor of Architecture 
+,"A,B,C,D","A,B,C,D","Environmental Design and Planning, Horticulture and Plant Knowledge, Technical Drawing and Spatial Visualization",Bachelor of Science in Landscape Architecture 
+"A,B,C,D",,"A,B,C,D","Environmental Design and Planning, Horticulture and Plant Knowledge, Technical Drawing and Spatial Visualization",Bachelor of Science in Landscape Architecture 
+"A,B,C,D","A,B,C,D",,"Environmental Design and Planning, Horticulture and Plant Knowledge, Technical Drawing and Spatial Visualization",Bachelor of Science in Landscape Architecture 
+"A,B,C,D","A,B,C,D",,"Environmental Analysis and Assessment, Critical Thinking and Problem-Solving, Data Interpretation and Management",Bachelor of Science in Environmental Science and Management
+,"A,B,C,D","A,B,C,D","Environmental Analysis and Assessment, Critical Thinking and Problem-Solving, Data Interpretation and Management",Bachelor of Science in Environmental Science and Management
+,"A,B,C,D","A,B,C,D","Spatial Planning and Design, Analytical and Research Skills,Community Engagement and Communication",Bachelor of Science in Urban and Regional Planning
+"A,B,C,D",,"A,B,C,D","Spatial Planning and Design, Analytical and Research Skills,Community Engagement and Communication",Bachelor of Science in Urban and Regional Planning
+"A,B,C,D","A,B,C,D",,"Spatial Planning and Design, Analytical and Research Skills,Community Engagement and Communication",Bachelor of Science in Urban and Regional Planning
+,"A,B,C,D","A,B,C,D","Laboratory Techniques and Procedures, Analytical and Critical Thinking, Attention to Detail",Bachelor of Science in Biotechnology and Laboratory Sciences
+"A,B,C,D",,"A,B,C,D","Leadership and Management, Strategic Thinking and Decision-Making, Financial Literacy",Bachelor of Business Administration 
+"A,B,C,D","A,B,C,D",,"Leadership and Management, Strategic Thinking and Decision-Making, Financial Literacy",Bachelor of Business Administration 
+,"A,B,C,D","A,B,C,D","Leadership and Management, Strategic Thinking and Decision-Making, Financial Literacy",Bachelor of Business Administration 
+"A,B,C,D",,"A,B,C,D","Digital Content Creation, Technical Proficiency in ICT Tools, Project Management and Organization",Bachelor of Science in ICT Mediated Content Development.
+"A,B,C,D","A,B,C,D",,"Digital Content Creation, Technical Proficiency in ICT Tools, Project Management and Organization",Bachelor of Science in ICT Mediated Content Development.
+,"A,B,C,D","A,B,C,D","Digital Content Creation, Technical Proficiency in ICT Tools, Project Management and Organization",Bachelor of Science in ICT Mediated Content Development.
+"A,B,C,D",,"A,B,C,D","Animation and Graphic Design, Proficiency in Multimedia Software, Creative and Artistic Vision",Bachelor of Science in Multimedia Technology & Animation
+"A,B,C,D","A,B,C,D",,"Animation and Graphic Design, Proficiency in Multimedia Software, Creative and Artistic Vision",Bachelor of Science in Multimedia Technology & Animation
+,"A,B,C,D","A,B,C,D","Animation and Graphic Design, Proficiency in Multimedia Software, Creative and Artistic Vision",Bachelor of Science in Multimedia Technology & Animation
+"A,B,C,D",,"A,B,C,D","Aquatic Biology and Ecology, Fish Farming Techniques, Water Quality Management",Bachelor of Science in Aquaculture and Aquatic Science 
+,"A,B,C,D","A,B,C,D","Aquatic Biology and Ecology, Fish Farming Techniques, Water Quality Management",Bachelor of Science in Aquaculture and Aquatic Science 
+"A,B,C,D","A,B,C,D",,"Environmental Analysis and Monitoring, Research and Data Analysis, Understanding of Ecological Systems",Bachelor of Science in Environmental Sciences
+,"A,B,C,D","A,B,C,D","Environmental Analysis and Monitoring, Research and Data Analysis, Understanding of Ecological Systems",Bachelor of Science in Environmental Sciences
+"A,B,C,D",,"A,B,C,D","Environmental Analysis and Monitoring, Research and Data Analysis, Understanding of Ecological Systems",Bachelor of Science in Environmental Sciences
+,"A,B,C,D","A,B,C,D","Crop Science and Soil Management, Agricultural Research and Analysis, Field Management Techniques",Bachelor of Science Agronomy 
+"A,B,C,D",,"A,B,C,D","Crop Science and Soil Management, Agricultural Research and Analysis, Field Management Techniques",Bachelor of Science Agronomy 
+"A,B,C,D","A,B,C,D",,"Economic Analysis and Modeling, Agribusiness Management, Data Interpretation and Decision-Making",Bachelor of Science Agricultural Economics and Agribusiness 
+,"A,B,C,D","A,B,C,D","Economic Analysis and Modeling, Agribusiness Management, Data Interpretation and Decision-Making",Bachelor of Science Agricultural Economics and Agribusiness 
+"A,B,C,D",,"A,B,C,D","Economic Analysis and Modeling, Agribusiness Management, Data Interpretation and Decision-Making",Bachelor of Science Agricultural Economics and Agribusiness 
+,"A,B,C,D","A,B,C,D","Crop and Soil Management, Agricultural Technology and Techniques, Farm Management and Planning",Bachelor of Science Agriculture General 
+"A,B,C,D",,"A,B,C,D","Crop and Soil Management, Agricultural Technology and Techniques, Farm Management and Planning",Bachelor of Science Agriculture General 
+"A,B,C,D","A,B,C,D",,"Rural Community Assessment, Project Planning and Management, Development Program Implementation",Bachelor of Rural Development 
+,"A,B,C,D","A,B,C,D","Rural Community Assessment, Project Planning and Management, Development Program Implementation",Bachelor of Rural Development 
+"A,B,C,D",,"A,B,C,D","Rural Community Assessment, Project Planning and Management, Development Program Implementation",Bachelor of Rural Development 
+,"A,B,C,D","A,B,C,D","Animal Husbandry and Care, Nutrition and Feed Management, Animal Health and Veterinary Practices",Bachelor of Science Animal Science 
+"A,B,C,D",,"A,B,C,D","Aquatic Species Cultivation, Water Quality Management, Aquaculture Systems Design and Maintenance",Bachelor of Science Aquaculture 
+,"A,B,C,D","A,B,C,D","Aquatic Species Cultivation, Water Quality Management, Aquaculture Systems Design and Maintenance",Bachelor of Science Aquaculture 
+"A,B,C,D",,"A,B,C,D","Forest Management and Conservation,Tree and Soil Science,Wildlife and Ecosystem Monitoring",Bachelor of Science Forestry 
+,"A,B,C,D","A,B,C,D","Forest Management and Conservation,Tree and Soil Science,Wildlife and Ecosystem Monitoring",Bachelor of Science Forestry 
+"A,B,C,D",,"A,B,C,D","Plant Cultivation and Propagation, Soil and Fertilizer Management, Pest and Disease Control",Bachelor of Science Horticulture 
+,"A,B,C,D","A,B,C,D","Plant Cultivation and Propagation, Soil and Fertilizer Management, Pest and Disease Control",Bachelor of Science Horticulture 
+"A,B,C,D","A,B,C,D",,"Food Safety and Quality Control, Food Processing and Preservation, Nutritional Analysis and Product Development",Bachelor of Science Food Science and Technology 
+,"A,B,C,D","A,B,C,D","Food Safety and Quality Control, Food Processing and Preservation, Nutritional Analysis and Product Development",Bachelor of Science Food Science and Technology 
+"A,B,C,D",,"A,B,C,D","Range and Pasture Management, Ecological Monitoring and Assessment, Livestock Grazing Management",Bachelor of Science Range Management 
+,"A,B,C,D","A,B,C,D","Range and Pasture Management, Ecological Monitoring and Assessment, Livestock Grazing Management",Bachelor of Science Range Management 
+"A,B,C,D","A,B,C,D",,"Individualized Education Planning, Behavioral and Learning Assessment, Adaptive Teaching Strategies",Bachelor of Education in Special Education 
+,"A,B,C,D","A,B,C,D","Individualized Education Planning, Behavioral and Learning Assessment, Adaptive Teaching Strategies",Bachelor of Education in Special Education 
+"A,B,C,D",,"A,B,C,D","Individualized Education Planning, Behavioral and Learning Assessment, Adaptive Teaching Strategies",Bachelor of Education in Special Education 
+"A,B,C,D","A,B,C,D","A,B,C,D,E,S","Production Planning and Control, Operational Efficiency and Process Improvement, Supply Chain and Logistics Management",Bachelor of Science in Production & Operation Management  
+"A,B,C,D,E,S","A,B,C,D","A,B,C,D","Production Planning and Control, Operational Efficiency and Process Improvement, Supply Chain and Logistics Management",Bachelor of Science in Production & Operation Management  
+"A,B,C,D","A,B,C,D,E,S","A,B,C,D","Production Planning and Control, Operational Efficiency and Process Improvement, Supply Chain and Logistics Management",Bachelor of Science in Production & Operation Management  
+"A,B,C,D",,"A,B,C,D","Development Economics Analysis, Economic Policy and Planning, Quantitative Research and Data Analysis",Bachelor Degree in Economics of Development
+,"A,B,C,D","A,B,C,D","Development Economics Analysis, Economic Policy and Planning, Quantitative Research and Data Analysis",Bachelor Degree in Economics of Development
+"A,B,C,D","A,B,C,D",,"Development Economics Analysis, Economic Policy and Planning, Quantitative Research and Data Analysis",Bachelor Degree in Economics of Development
+,"A,B,C,D","A,B,C,D","Gender Analysis and Policy Development, Development Program Design and Implementation, Advocacy and Community Engagement",Bachelor Degree in Gender and Development  
+"A,B,C,D","A,B,C,D",,"Recruitment and Talent Management, Employee Relations and Development, HR Policies and Compliance",Bachelor Degree in Human Resource Management  
+,"A,B,C,D","A,B,C,D","Recruitment and Talent Management, Employee Relations and Development, HR Policies and Compliance",Bachelor Degree in Human Resource Management  
+"A,B,C,D",,"A,B,C,D","Recruitment and Talent Management, Employee Relations and Development, HR Policies and Compliance",Bachelor Degree in Human Resource Management  
+"A,B,C,D","A,B,C,D",,"Community Needs Assessment, Program Planning and Implementation, Community Engagement and Facilitation",Bachelor  Degree in Community Development 
+,"A,B,C,D","A,B,C,D","Community Needs Assessment, Program Planning and Implementation, Community Engagement and Facilitation",Bachelor  Degree in Community Development 
+"A,B,C,D",,"A,B,C,D","Community Needs Assessment, Program Planning and Implementation, Community Engagement and Facilitation",Bachelor  Degree in Community Development 
+"A,B,C,D","A,B,C,D",,"Gender Analysis and Advocacy, Community Development Strategies, Program Planning and Evaluation",Bachelor Degree in Gender and  Community Development 
+,"A,B,C,D","A,B,C,D","Gender Analysis and Advocacy, Community Development Strategies, Program Planning and Evaluation",Bachelor Degree in Gender and  Community Development 
+"A,B,C,D",,"A,B,C,D","Gender Analysis and Advocacy, Community Development Strategies, Program Planning and Evaluation",Bachelor Degree in Gender and  Community Development 
+"A,B,C,D","A,B,C,D",,"Participatory Planning Techniques, Project Design and Implementation, Stakeholder Engagement and Facilitation",Bachelor Degree in Participatory Project Planning and Management 
+,"A,B,C,D","A,B,C,D","Participatory Planning Techniques, Project Design and Implementation, Stakeholder Engagement and Facilitation",Bachelor Degree in Participatory Project Planning and Management 
+"A,B,C,D",,"A,B,C,D","Participatory Planning Techniques, Project Design and Implementation, Stakeholder Engagement and Facilitation",Bachelor Degree in Participatory Project Planning and Management
+"A,B,C,D","A,B,C,D",,"Supply Chain Management, Logistics and Transportation Planning, Inventory and Warehouse Management",Bachelor Degree in Shipping and Logistics Management
+,"A,B,C,D","A,B,C,D","Supply Chain Management, Logistics and Transportation Planning, Inventory and Warehouse Management",Bachelor Degree in Shipping and Logistics Management
+"A,B,C,D",,"A,B,C,D","Supply Chain Management, Logistics and Transportation Planning, Inventory and Warehouse Management",Bachelor Degree in Shipping and Logistics Management
+"A,B,C,D","A,B,C,D",,"Statistical Analysis and Methods,Data Collection and Management,Statistical Reporting and Interpretation",Bachelor Degree in Official Statistics 
+,"A,B,C,D","A,B,C,D","Statistical Analysis and Methods,Data Collection and Management,Statistical Reporting and Interpretation",Bachelor Degree in Official Statistics 
+"A,B,C,D",,"A,B,C,D","Statistical Analysis and Methods,Data Collection and Management,Statistical Reporting and Interpretation",Bachelor Degree in Official Statistics 
+"A,B,C,D","A,B,C,D",,"Records Organization and Classification, Archival Preservation Techniques, Information Management Systems",Bachelor Degree in Records and Achieves Management 
+,"A,B,C,D","A,B,C,D","Records Organization and Classification, Archival Preservation Techniques, Information Management Systems",Bachelor Degree in Records and Achieves Management 
+"A,B,C,D",,"A,B,C,D","Records Organization and Classification, Archival Preservation Techniques, Information Management Systems",Bachelor Degree in Records and Achieves Management 
+"A,B,C,D","A,B,C,D",,"Environmental Impact Assessment,Planning and Policy Development,Resource Management and Sustainability",Bachelor Degree in Environmental Planning and Management 
+,"A,B,C,D","A,B,C,D","Environmental Impact Assessment,Planning and Policy Development,Resource Management and Sustainability",Bachelor Degree in Environmental Planning and Management 
+"A,B,C,D",,"A,B,C,D","Environmental Impact Assessment,Planning and Policy Development,Resource Management and Sustainability",Bachelor Degree in Environmental Planning and Management 
+"A,B,C,D","A,B,C,D",,"Urban Planning and Design,Environmental Impact Assessment, Sustainable Development Practices",Bachelor Degree in Urban Development and Environmental Management
+,"A,B,C,D","A,B,C,D","Urban Planning and Design,Environmental Impact Assessment, Sustainable Development Practices",Bachelor Degree in Urban Development and Environmental Management
+"A,B,C,D",,"A,B,C,D","Urban Planning and Design,Environmental Impact Assessment, Sustainable Development Practices",Bachelor Degree in Urban Development and Environmental Management
+"A,B,C,D","A,B,C,D",,"Information Systems Analysis and Design, Project Management, Technical Proficiency in IT Systems",Bachelor of Science in Information Systems Management
+"A,B,C,D","A,B,C,D",,"Global Political and Economic Analysis, Diplomatic Communication and Negotiation, Cultural Awareness and Sensitivity",Bachelor Degree in International Relations and Diplomacy
+,"A,B,C,D","A,B,C,D","Global Political and Economic Analysis, Diplomatic Communication and Negotiation, Cultural Awareness and Sensitivity",Bachelor Degree in International Relations and Diplomacy
+"A,B,C,D",,"A,B,C,D","Global Political and Economic Analysis, Diplomatic Communication and Negotiation, Cultural Awareness and Sensitivity",Bachelor Degree in International Relations and Diplomacy
+"A,B,C,D","A,B,C,D",,"Wildlife Biology and Ecology, Conservation Strategies and Practices, Field Research and Data Collection",Bachelor Degree in Wildlife Management
+,"A,B,C,D","A,B,C,D","Wildlife Biology and Ecology, Conservation Strategies and Practices, Field Research and Data Collection",Bachelor Degree in Wildlife Management
+"A,B,C,D",,"A,B,C,D","Wildlife Biology and Ecology, Conservation Strategies and Practices, Field Research and Data Collection",Bachelor Degree in Wildlife Management
+"A,B,C,D","A,B,C,D",,"Wildlife Conservation Knowledge, Tourism Management, Field Guide and Visitor Interaction Skills",Bachelor Degree in Wildlife Tourism  
+,"A,B,C,D","A,B,C,D","Wildlife Conservation Knowledge, Tourism Management, Field Guide and Visitor Interaction Skills",Bachelor Degree in Wildlife Tourism  
+"A,B,C,D",,"A,B,C,D","Wildlife Conservation Knowledge, Tourism Management, Field Guide and Visitor Interaction Skills",Bachelor Degree in Wildlife Tourism  
+"A,B,C,D","A,B,C,D",,"Risk Assessment and Analysis,Insurance Principles and Practices,Financial and Statistical Analysis",Bachelor of Science in Insurance and Risk Management
+,"A,B,C,D","A,B,C,D","Risk Assessment and Analysis,Insurance Principles and Practices,Financial and Statistical Analysis",Bachelor of Science in Insurance and Risk Management
+"A,B,C,D",,"A,B,C,D","Risk Assessment and Analysis,Insurance Principles and Practices,Financial and Statistical Analysis",Bachelor of Science in Insurance and Risk Management
+"A,B,C,D","A,B,C,D",,"Social Policy Analysis,Program Management and Evaluation,Advocacy and Communication",Bachelor of Science in Social Protection 
+,"A,B,C,D","A,B,C,D","Social Policy Analysis,Program Management and Evaluation,Advocacy and Communication",Bachelor of Science in Social Protection 
+"A,B,C,D",,"A,B,C,D","Social Policy Analysis,Program Management and Evaluation,Advocacy and Communication",Bachelor of Science in Social Protection 
+"A,B,C,D","A,B,C,D",,"Tax Law and Regulations, Financial Analysis and Reporting, Attention to Detail and Accuracy",Bachelor of Science in Tax Management 
+,"A,B,C,D","A,B,C,D","Tax Law and Regulations, Financial Analysis and Reporting, Attention to Detail and Accuracy",Bachelor of Science in Tax Management 
+"A,B,C,D",,"A,B,C,D","Tax Law and Regulations, Financial Analysis and Reporting, Attention to Detail and Accuracy",Bachelor of Science in Tax Management 
